@@ -1,7 +1,9 @@
 ### Hi there, I'm Karol 👋
-#### I'm a Frontend Developer based in Poland, Warsaw.
----
 
+#### I am 23 y.o.  programming passionate. I really enjoy frontend and web development. Recently I've started studies in the field of Big Data and it is really interesting for me too 👨‍🎓 📈📊. 
+---
+#### Check my [portfolio](https://kkowalczykk.github.io/)
+---
 ### Languages and Tools:
 
 
@@ -13,7 +15,7 @@
 <img align="left" alt="Angular" width="26px" src="https://www.scottbrady91.com/img/logos/angular.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="26px" src="https://expressjs.com/images/express-facebook-share.png" />
+<img align="left" alt="Express.js" width="26px" src="https://s3-us-west-2.amazonaws.com/assets.blog.serverless.com/express_js.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />

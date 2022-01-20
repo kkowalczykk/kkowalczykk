@@ -1,6 +1,6 @@
 ### Hi there, I'm Karol 👋
 
-#### I am 23 y.o.  programming passionate. I really enjoy frontend and web development. Recently I've started studies in the field of Big Data and it is really interesting for me too 👨‍🎓 📈📊. 
+#### I am 24 y.o.  programming passionate. I really enjoy frontend and web development. Recently I've started studies in the field of Big Data and it is really interesting for me too 👨‍🎓 📈📊. 
 ---
 #### Check my [portfolio](https://kkowalczykk.github.io/)
 ---
